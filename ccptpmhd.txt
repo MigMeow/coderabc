@@ -1,0 +1,9 @@
+lên trang gốc huy gửi source 
+chọn chức năng trong folder controller(gv,hs)
+quay về file forder trong mayts tính
+tạo 1 file text 
+git branch <tên Nhánh>
+git checkout <tên nhánh mới tạo>
+git add .
+git commit -m "....."
+git push origin <tên nhánh mới tạo>
